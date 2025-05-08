@@ -1,3 +1,3 @@
 # DCC202: Desenvolvimento Web
-<p>Aluno: Rian Cesar Quintanilha <\br>
-E-mail: rian.quintanilha@estudante.ufjf.br</p>
+<p><strong>Aluno:</strong> Rian Cesar Quintanilha
+<strong>E-mail:</strong> rian.quintanilha@estudante.ufjf.br</p>
